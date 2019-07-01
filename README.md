@@ -5,7 +5,9 @@ Change your favorite git commands!
 
 ## Examples:
 `git shabbos` = `git push`
+
 `git vach` = `git pull`
+
 `git yomtev` = `git checkout`
 
 And more!
