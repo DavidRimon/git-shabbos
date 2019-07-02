@@ -4,6 +4,8 @@
 Change your favorite git commands!
 
 ## Examples:
+`git shkoiech` = `git commit`
+
 `git shabbos` = `git push`
 
 `git vach` = `git pull`
