@@ -26,8 +26,13 @@ Have any suggestions? Tell the developer!
 
 ## Explanation
 `git shabbos` = `git push`, because you push in the weekend, before shabbos
+
 `git vach` = `git pull`, because vach is for metzei shabat, and you start work again by pull
+
 `git shkoiech` = `git commit` , for good work!
+
+`git vort` = `git staus`
+
 ## Translation
 
 https://he.m.wikivoyage.org/wiki/%D7%A9%D7%99%D7%97%D7%95%D7%9F_%D7%99%D7%99%D7%93%D7%99
